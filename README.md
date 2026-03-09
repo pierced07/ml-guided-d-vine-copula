@@ -58,3 +58,8 @@ cd ml-guided-d-vine-copula
 ```bash
 pip install -r requirements.txt
 ```
+
+### To-Do
+- [X] Organize repository
+- [ ] Refactor code into src/ for modularity
+- [ ] Implement classification tree

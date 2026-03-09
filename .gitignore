@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
+
+venv/
+env/
+
+.vscode/
+.idea/
+
+notes.txt
